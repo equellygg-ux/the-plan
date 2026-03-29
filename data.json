@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "title": "The Plan — AI Automation Side Hustle",
+    "location": "Singapore",
+    "tagline": "Tight budget · Validate before invest · Free pilot first",
+    "notes": [
+      "All new additions run through Nick before committing",
+      "Research drops: 8am · 11am · 2pm · 8pm SGT"
+    ],
+    "lastUpdated": "25 Mar 2026, 11:00 SGT",
+    "version": "MaxClaw v2026.3"
+  },
+  "channels": [
+    { "name": "Telegram", "icon": "✉️", "status": "connected" },
+    { "name": "Email (Gmail)", "icon": "📧", "status": "connected" },
+    { "name": "WhatsApp", "icon": "◎", "status": "pending" }
+  ],
+  "quickActions": [
+    { "label": "Send an email", "icon": "📧" },
+    { "label": "Set a reminder", "icon": "⏰" },
+    { "label": "Search the web", "icon": "🔍" },
+    { "label": "Draft content", "icon": "✍️" }
+  ],
+  "recentActivity": [
+    { "time": "23:24", "message": "Mission Control updated — PSG vendor path added" },
+    { "time": "23:11", "message": "The Plan expanded to 8 phases" },
+    { "time": "22:11", "message": "Email sent → equelly.gg@gmail.com ✅" },
+    { "time": "22:06", "message": "Telegram pairing approved for Nick ✅" }
+  ],
+  "phases": [
+    {
+      "id": 1,
+      "label": "Phase 1 — NOW",
+      "title": "Foundation",
+      "color": "#7c6af7",
+      "isNow": true,
+      "items": [
+        { "text": "Service name / brand", "status": "todo" },
+        { "text": "Define offer as fixed \"Starter Kit\" (Telegram + Email + 1 cron, 1 day setup)", "status": "todo" },
+        { "text": "Draft Carousell listing from validated FB group pain points", "status": "todo" },
+        { "text": "Telegram + Email connected", "status": "done" }
+      ]
+    },
+    {
+      "id": 1.5,
+      "label": "Phase 1.5",
+      "title": "Proof & Credibility",
+      "color": "#9b7cf7",
+      "items": [
+        { "text": "Build a demo setup", "status": "todo" },
+        { "text": "Credibility asset via MiniMax (AI-generated one-pager) ✨", "status": "todo" },
+        { "text": "Client qualification criteria", "status": "todo" },
+        { "text": "Research PSG vendor path", "status": "idea", "link": "https://preapproval-guide.imda.gov.sg" },
+        { "text": "Mention PSG to prospects now", "status": "idea" }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Phase 2",
+      "title": "Infrastructure",
+      "color": "#6a9cf7",
+      "items": [
+        { "text": "Buy used laptop", "status": "todo" },
+        { "text": "Install OpenClaw on Windows", "status": "todo" },
+        { "text": "Practice Telegram + Email + cron", "status": "todo" },
+        { "text": "Build repeatable delivery checklist", "status": "todo" }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Phase 3",
+      "title": "Client Acquisition",
+      "color": "#6acdf7",
+      "items": [
+        { "text": "Post on Carousell (free pilot)", "status": "todo" },
+        { "text": "Filter with qualification criteria", "status": "todo" },
+        { "text": "Execute delivery checklist per client", "status": "todo" },
+        { "text": "1-week follow-up + feedback + referral ask", "status": "todo" },
+        { "text": "Document as case study", "status": "todo" }
+      ]
+    },
+    {
+      "id": 3.5,
+      "label": "Phase 3.5",
+      "title": "Sector Focus: F&B 🍜",
+      "color": "#5ce0a0",
+      "items": [
+        { "text": "Study IMDA Food Services IDP — free pain point map", "status": "todo", "link": "https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2025/enterprise-singapore-and-imda-announce-refreshed-food-services-industry-digital-plan" },
+        { "text": "Map OpenClaw to F&B pain points (inventory, order comms, follow-ups)", "status": "todo" },
+        { "text": "Build F&B-specific pitch + PSG angle", "status": "todo" },
+        { "text": "Target F&B first on Carousell", "status": "todo" }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Phase 4",
+      "title": "PSG Vendor Path 🏛️",
+      "color": "#f7d75c",
+      "items": [
+        { "text": "Review IMDA eligibility criteria", "status": "todo", "link": "https://preapproval-guide.imda.gov.sg/pre-approval-guide/eligibility-criteria" },
+        { "text": "ID solution category for AI/automation", "status": "todo" },
+        { "text": "Complete self-assessment", "status": "todo" },
+        { "text": "Prepare submission (profile, solution, pricing)", "status": "todo" },
+        { "text": "Submit via IMDA Vendor Portal", "status": "todo", "link": "https://services2.imda.gov.sg/VMP/" },
+        { "text": "⚠️ Needs ACRA registration first", "status": "warn" }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Phase 5",
+      "title": "Validate & Refine",
+      "color": "#f7a76a",
+      "items": [
+        { "text": "Review case studies", "status": "todo" },
+        { "text": "ID best-fit client types", "status": "todo" },
+        { "text": "Refine the offer", "status": "todo" },
+        { "text": "Decide: ready to charge?", "status": "todo" }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "Phase 6",
+      "title": "Monetise 💰",
+      "color": "#f76a9b",
+      "items": [
+        { "text": "Package into tiers", "status": "todo" },
+        { "text": "Register with ACRA", "status": "todo" },
+        { "text": "Set pricing from demand signals", "status": "todo" },
+        { "text": "Scale outreach beyond Carousell", "status": "todo" }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "Phase 7",
+      "title": "Community & Credibility",
+      "color": "#f75c8a",
+      "items": [
+        { "text": "Joined SG Entrepreneurship FB group", "status": "done" },
+        { "text": "Joined Singapore SMEs FB group", "status": "done" },
+        { "text": "→ Listen first — collect real pain points before pitching", "status": "listen" },
+        { "text": "Join ASME, Startup SG events (free)", "status": "todo" },
+        { "text": "Share learnings on LinkedIn (free credibility)", "status": "todo" }
+      ]
+    },
+    {
+      "id": 8,
+      "label": "Phase 8",
+      "title": "Skill Building 🧠",
+      "color": "#6a8cf7",
+      "items": [
+        { "text": "Deepening OpenClaw/MaxClaw knowledge", "status": "done" },
+        { "text": "Learn SME pain points (F&B, retail, logistics)", "status": "todo" },
+        { "text": "Basic prompt engineering", "status": "todo" },
+        { "text": "Read a simple P&L — speak business to clients", "status": "todo" }
+      ]
+    }
+  ]
+}
